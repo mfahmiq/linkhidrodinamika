@@ -38,13 +38,17 @@ This site is ready to deploy to Vercel, Netlify, or any static hosting service.
 
 ### Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=YOUR_REPO_URL)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mfahmiq/linkhidrodinamika)
 
 Or manually:
 ```bash
 npm i -g vercel
 vercel
 ```
+
+### Repository
+
+GitHub: [https://github.com/mfahmiq/linkhidrodinamika](https://github.com/mfahmiq/linkhidrodinamika)
 
 ## File Structure
 
